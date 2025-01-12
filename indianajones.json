@@ -1,0 +1,35 @@
+{
+    "cast": [
+      {
+        "character": "Indiana Jones",
+        "actor": "Harrison Ford",
+        "photo": "/fotos/Harrisonford.webp"
+      },
+      {
+        "character": "Marion Ravenwood",
+        "actor": "Karen Allen",
+        "photo": "/fotos/Marion.jpg"
+      },
+      {
+        "character": "René Belloq",
+        "actor": "Paul Freeman",
+        "photo": "/fotos/Rene_belloq.webp"
+      },
+      {
+        "character": "Sallah",
+        "actor": "John Rhys-Davies",
+        "photo": "/fotos/salah.webp"
+      },
+      {
+        "character": "Major Toht",
+        "actor": "Ronald Lacey",
+        "photo": "/fotos/Toht1.webp"
+      },
+      {
+        "character": "Marcus Brody",
+        "actor": "Denholm Elliott",
+        "photo": "/fotos/personatge.webp"
+      }
+    ]
+  }
+  
